@@ -1,0 +1,21 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+*.iml
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+*.keystore
+
+# IDE
+.idea/
+*.log
+
+# Environment
+.env
+google-services.json
+GoogleService-Info.plist
